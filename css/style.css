@@ -1,0 +1,160 @@
+body {
+  margin: 30px 41px 10px 10px;
+  background-color: #FAFAFA;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+.main-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.picture {
+  height: 618px;
+  width: 454px;
+  padding: 0px;
+  margin: 0px -10px 0px 0px
+}
+
+.phone-pic {
+  height: 618px;
+  justify-content: center;
+}
+
+.form {
+  height: 316px;
+  width: 348px;
+  background-color: #FAFAFA;
+  padding: 20px 1px;
+  justify-content: center;
+}
+
+.form-box {
+  border: 1px solid #EAEAEA;
+  background-color: white;
+  margin: 0px 0px 20px 0px;
+
+}
+
+.form-box > * {
+  padding: 5px 10px;
+  margin: 5px 10px;
+  background-color: white;
+}
+
+.right-box{
+  height: 596;
+  width: 350;
+  margin: 20px 0px 0px 0px;
+  background-color: #FAFAFA;
+}
+
+.instagram-pic {
+  height: 67px;
+  padding: 20px 40px 0px 60px;
+}
+
+.log-in-facebook {
+  text-align: center;
+  color: #385185;
+  font-weight: 600;
+  font-size: 14px;
+  align-items: center;
+  flex-wrap: nowrap;
+  padding: 0px;
+}
+
+.log-in-facebook p{
+  padding: 0px;
+}
+
+.forgot-password {
+  text-align: center;
+  font-size: 12px;
+  line-height: 14px;
+  margin-top: 12px;
+  text-align: center;
+  color: #003569;
+}
+
+.lost-account {
+  height: 18px;
+  width: 316px;
+  padding: 26px 15px;
+  background-color: white;
+  border: 1px solid #EAEAEA ;
+  align-items: center;
+  text-align: center;
+  color: #262626;
+  font-size: 14px;
+  margin: 0px 0px 0px 1px;
+}
+
+.app-buttons {
+  height: 18px;
+  width: 318px;
+  padding: 26px 16px;
+  display: flex;
+}
+
+.login {
+  height: 30px;
+  width: 268px;
+  padding: 5px 34px;
+}
+
+.login-button {
+  background-color: lightblue;
+  border: none;
+  color: white;
+  padding: 6px 2px;
+  width: 250px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.username-box {
+  padding: 0px 15px;
+
+}
+.username-box > * {
+  padding: 5px 10px;
+  margin: 5px 15px;
+  background-color: white;
+  border: 1px solid #EAEAEA;
+}
+
+.username {
+  padding: 10px;
+  margin: 0px 0px 5px 20px;
+}
+
+.box-dash {
+  height: 0px;
+  width: 100px;
+  border: 1px solid #EAEAEA;
+  margin: 10px;
+}
+
+
+.box-or {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.get-app {
+  text-align: center;
+  padding: 20px 0px 10px 0px;
+}
+
+.app-buttons {
+  justify-content: center;
+}
+
+.app-pics {
+  height: 40px;
+  width: 136px;
+}
